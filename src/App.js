@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom";
-import HomePage from "./redux/home/HomePage";
+import HomePage from "./pages/home/HomePage";
 
 function App() {
 	return (
